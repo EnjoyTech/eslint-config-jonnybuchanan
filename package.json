@@ -15,7 +15,7 @@
     ".eslintrc"
   ],
   "dependencies": {
-    "eslint": "2.9.0",
+    "eslint": "2.10.1",
     "babel-eslint": "6.0.4",
     "eslint-config-standard": "5.3.1",
     "eslint-config-standard-jsx": "1.2.0",
